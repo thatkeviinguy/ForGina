@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Smokers Website</title>
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <h1>Welcome to the Smokers Website</h1>
+    <p>This website is a resource for smokers who want to quit smoking and improve their health and wellbeing.</p>
+    <button onclick="showMessage()">Get Started</button>
+  </body>
+</html>
+
